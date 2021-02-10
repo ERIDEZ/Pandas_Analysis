@@ -1,8 +1,6 @@
-# pandas_challenge
+# Videogames analysis
 
-## Videogames analysis
-
-### Summary
+## By Erick Hernandez
 
 In this project I was able to demonstrate my DataFrame handling and analysis. This project was about performing a top-down analysis of a database of fictional videogames, in which I was required to identify trends regarding customer purchasing preferences, their demographics and videogame composition.
 
